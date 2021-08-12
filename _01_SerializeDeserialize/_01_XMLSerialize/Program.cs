@@ -1,11 +1,6 @@
-﻿using System;
+﻿using _00_Library;
 using System.IO;
 using System.Xml.Serialization;
-using _00_Library;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01_XMLSerialize
 {
