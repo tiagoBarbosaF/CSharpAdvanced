@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_00_Library", "_00_Library\_00_Library.csproj", "{438F7ED8-5AB0-4970-99BA-EB534B27ECFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_XMLSerialize", "_01_XMLSerialize\_01_XMLSerialize.csproj", "{B2CB6DFD-0020-4228-875F-D42FEC81B379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438F7ED8-5AB0-4970-99BA-EB534B27ECFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438F7ED8-5AB0-4970-99BA-EB534B27ECFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438F7ED8-5AB0-4970-99BA-EB534B27ECFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438F7ED8-5AB0-4970-99BA-EB534B27ECFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CB6DFD-0020-4228-875F-D42FEC81B379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CB6DFD-0020-4228-875F-D42FEC81B379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CB6DFD-0020-4228-875F-D42FEC81B379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CB6DFD-0020-4228-875F-D42FEC81B379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0915D383-A52F-40B6-B796-CBA9050EC08C}
+	EndGlobalSection
+EndGlobal
